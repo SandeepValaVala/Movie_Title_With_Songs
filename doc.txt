@@ -1,0 +1,62 @@
+<img src="./images/Akkada_Ammayi_Ikkada_Abbayi.jpg" alt="Akkada_Ammayi_Ikkada_Abbayi"  height="400" title="Akkada_Ammayi_Ikkada_Abbayi">
+            <img src="./images/Badri_Telugu.jpg" alt="Badri" height="400" title="Badri">
+            <img src="./images/Bro_Teaser.png" alt="BRO" height="400" title="BRO">
+            <img src="./images/Gabbar_singh.jpg" alt="Gabbar_singh" height="400" title="Gabbar_singh">
+            <img src="./images/Gokulamlo_Seeta.jpg" alt="Gokulamlo_Seeta" height="400" title="Gokulamlo_Seeta">
+            <img src="./images/Gopala_Gopala.jpg" alt="Gopala_Gopala" height="400" title="Gopala_Gopala">
+            <img src="./images/Katamarayudu.jpg" alt="Katamarayudu"  width="300" height="400" title="Katamarayudu" >
+            <img src="./images/Attarintiki Daredi.jpg" alt="Attarintiki Daredi" height="400" title="Attarintiki Daredi">
+            <img src="./images/Kushi.jpeg" alt="Kushi" height="400" title="Kushi">
+            <img src="./images/Panjaa.jpg" alt="Panjaa" height="400" title="Panjaa">
+
+
+
+
+
+
+
+            <center>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="./images/Akkada_Ammayi_Ikkada_Abbayi.jpg" alt="Akkada_Ammayi_Ikkada_Abbayi"  width="300" height="400" title="Akkada_Ammayi_Ikkada_Abbayi">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="./images/Badri_Telugu.jpg" alt="Badri" width="300" height="400" title="Badri">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="./images/Bro_Teaser.png" alt="BRO" width="300" height="400" title="BRO">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="./images/Gabbar_singh.jpg" alt="Gabbar_singh" width="300" height="400" title="Gabbar_singh">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br>
+            <!-- <a href="./images/Akkada_Ammayi_Ikkada_Abbayi.jpg" target="_blank" download="Akkada_Ammayi_Ikkada_Abbayi.jpg" >
+                     <img src="./images/download1.jpg" alt="pspk" width="60">
+            </a>
+            
+            <a href="./images/Akkada_Ammayi_Ikkada_Abbayi.jpg" target="_blank" download="Akkada_Ammayi_Ikkada_Abbayi.jpg" >
+                     <img src="./images/download1.jpg" alt="pspk" width="60">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="./images/Akkada_Ammayi_Ikkada_Abbayi.jpg" target="_blank" download="Akkada_Ammayi_Ikkada_Abbayi.jpg" >
+                     <img src="./images/download1.jpg" alt="pspk" width="60">
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="./images/Akkada_Ammayi_Ikkada_Abbayi.jpg" target="_blank" download="Akkada_Ammayi_Ikkada_Abbayi.jpg" >
+                     <img src="./images/download1.jpg" alt="pspk" width="60">
+            </a> -->
+             <center>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <audio controls autoplay muted>
+                    <source src="./songs/s1.mp3">
+                </audio>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <audio controls autoplay muted>
+                    <source src="./songs/s1.mp3">
+                </audio>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <audio controls autoplay muted>
+                    <source src="./songs/s1.mp3">
+                </audio>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                 <audio controls autoplay muted>
+                    <source src="./songs/s1.mp3">
+                </audio>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             </center>
